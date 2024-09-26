@@ -1,5 +1,6 @@
 # Project: Exploratory Data Analysis and Price Prediction of Airbnb in New York City
 Contributor: Jiani Lyu, Chelsea Liu, Yuewei Shi, Yanchi Jin, Yajie Zeng
+
 our poster->[click](https://docs.google.com/presentation/d/1rxd43UmeWR7XW8PyCtWSvASjpnSXUtPD/edit?usp=sharing&ouid=107940636221349809955&rtpof=true&sd=true)
 
 This study delves into the intricate dynamics of Airbnb pricing in New York City, aiming to unearth key determinants that influence listing prices and develop robust predictive models. Leveraging a dataset featuring a diverse array of Airbnb listings across the city, this research integrates variables such as geographical coordinates, room types, pricing, and amenities with additional data on rental income and transportation accessibility. Advanced machine learning techniques, including decision trees, random forests, gradient boosting machines, and support vector machines, were employed to model and predict Airbnb prices. Significant predictors identified include proximity to transit, housing type, and neighborhood characteristics. The findings emphasize the importance of utilizing sophisticated data sources and analytical methods to enhance prediction accuracy, providing valuable insights for hosts and policymakers engaged in strategic decision-making.
